@@ -1,2 +1,2 @@
 # pHSigma
-Fitting a sigmodial curve into absorption ratio
+Fitting a sigmodial curve into absorption ratios
